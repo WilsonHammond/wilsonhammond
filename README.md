@@ -89,11 +89,7 @@ Bachelor of Science in Cybersecurity
 
 | Project | Description |
 |---------|-------------|
-| **Project Blackwake** | Cybersecurity documentation, analysis, and development. |
+| **[Project Blackwake](https://github.com/WilsonHammond/project_blackwake_grc_lab)** 
 | **[Project Sideline](https://github.com/WilsonHammond/project-sideline-sports-breach-lab)** | Fictional $6.4B sports franchise breach lab focused on third-party risk, cloud identity compromise, incident response, and NIST/ISO-aligned remediation. |
-| **Portfolio Website** | Personal GitHub Pages portfolio showcasing projects and experience. |
-| **Packet Tracer Labs** | Networking, routing, switching, and troubleshooting labs. |
-| **Risk Management** | NIST CSF and ISO 27001 aligned security documentation. |
-| **PowerShell & Python** | Automation and scripting projects. |
 
 ---
