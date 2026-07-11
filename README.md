@@ -81,7 +81,7 @@ Bachelor of Science in Cybersecurity
 
 - ISO/IEC 27001 Information Security Associate
 - ISC2 CGRC *(In Progress)*
-- CompTIA Security+ *(Planned)*
+- CompTIA Security+ *(In Progress)*
 
 ---
 
@@ -90,6 +90,7 @@ Bachelor of Science in Cybersecurity
 | Project | Description |
 |---------|-------------|
 | **Project Blackwake** | Cybersecurity documentation, analysis, and development. |
+| **[Project Sideline](https://github.com/WilsonHammond/project-sideline-sports-breach-lab)** | Fictional $6.4B sports franchise breach lab focused on third-party risk, cloud identity compromise, incident response, and NIST/ISO-aligned remediation. |
 | **Portfolio Website** | Personal GitHub Pages portfolio showcasing projects and experience. |
 | **Packet Tracer Labs** | Networking, routing, switching, and troubleshooting labs. |
 | **Risk Management** | NIST CSF and ISO 27001 aligned security documentation. |
