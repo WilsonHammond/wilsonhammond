@@ -89,7 +89,7 @@ Bachelor of Science in Cybersecurity
 
 | Project | Description |
 |---------|-------------|
-| **[Project Blackwake](https://github.com/WilsonHammond/project_blackwake_grc_lab)** 
+| **[Project Blackwake](https://github.com/WilsonHammond/project_blackwake_grc_lab)** | Enterprise GRC and cybersecurity risk lab featuring governance analysis, control mapping, risk assessment, incident planning, and executive-level security documentation aligned with NIST and ISO 27001. |
 | **[Project Sideline](https://github.com/WilsonHammond/project-sideline-sports-breach-lab)** | Fictional $6.4B sports franchise breach lab focused on third-party risk, cloud identity compromise, incident response, and NIST/ISO-aligned remediation. |
 
 ---
